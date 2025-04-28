@@ -18,7 +18,3 @@ Used different types of customized visualization (bar chart, pie chart, donut ch
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - Power Query
-
-## 📷 Dashboard Preview
-![Dashboard Preview] 
-https://github.com/mehta1772/SalesPulse-Ecommerce-Sales-Dashboard/blob/main/Screenshot%202025-04-29%20015608.png
