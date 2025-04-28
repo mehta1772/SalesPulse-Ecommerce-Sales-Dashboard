@@ -21,4 +21,4 @@ Used different types of customized visualization (bar chart, pie chart, donut ch
 
 ## 📷 Dashboard Preview
 ![Dashboard Preview] 
-"D:\code playground\Power bi\Screenshot 2025-04-29 015608.png"
+https://github.com/mehta1772/SalesPulse-Ecommerce-Sales-Dashboard/blob/main/Screenshot%202025-04-29%20015608.png
